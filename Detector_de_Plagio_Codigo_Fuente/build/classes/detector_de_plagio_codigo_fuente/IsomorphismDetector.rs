@@ -1,0 +1,2 @@
+detector_de_plagio_codigo_fuente.IsomorphismResult
+detector_de_plagio_codigo_fuente.IsomorphismDetector
